@@ -1,0 +1,36 @@
+Day 2 --> Built in Functions 
+
+**Globally available for my use without importing and configuring. 
+
+Most commonly used: 
+1. print() 
+2. type() 
+3. int()
+4. float()
+5. str()
+6. input()
+7. dict() 
+8. min() 
+9. max()
+10. sum()
+11. open()
+12. file() 
+13. help() 
+14. dir()
+
+
+** Variables store data in a computer memory. Mnemonic variables are recommended to use in many programming languages. 
+Mnemonic --> variable name that can be easiliy remembered and associated. 
+    - A variable refers to a memory address in which data is stored. 
+    - Number at the beginning, special character, hyphne are not allowed when naming a variable. 
+
+Python  variable name Rules: 
+- variable name must start with a letter or the underscore character. 
+- variable name can only contain alpha numeric characters and underscores (A-z, 0-9 and _)
+- Variable names are case sensitive. 
+
+** When we assing a certain data type to a variable, it is called variable declaration. 
+
+** Arguemnt is a value which can be passed or put inside the function parenthesis. 
+
+print('Hello, World!') # the text Hello, World!
